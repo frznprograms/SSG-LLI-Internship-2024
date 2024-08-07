@@ -16,6 +16,7 @@ I also trid several techniques, including:
 - Both single and multi-class classification for all the models
 - Prompt Engineering
 - Creating a pipeline of AI Models
+- Using AI to generate synthetic data based on real-life examples
 
 In the end, I managed to secure an 80% accuracy for my classification task. 
 

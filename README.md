@@ -18,3 +18,5 @@ I also trid several techniques, including:
 - Creating a pipeline of AI Models
 
 In the end, I managed to secure an 80% accuracy for my classification task. 
+
+Please note that I have removed some information from the code, such as certain comments, variable names, and prompts to maintain the confidentiality of my work during my internship with SSG-LLI.

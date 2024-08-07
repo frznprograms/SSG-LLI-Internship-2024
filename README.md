@@ -15,5 +15,6 @@ I also trid several techniques, including:
 - Hyperparameter Optimization using Optuna
 - Both single and multi-class classification for all the models
 - Prompt Engineering
+- Creating a pipeline of AI Models
 
 In the end, I managed to secure an 80% accuracy for my classification task. 
